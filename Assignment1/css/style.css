@@ -1,0 +1,96 @@
+body {
+	font-family: 'Montserrat';
+}
+
+.top {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: rgb(195, 198, 204);
+	color: white;
+}
+
+nav {
+	margin-top:	5px;
+	margin-bottom: 5px;
+	margin-left: 50px;
+	padding: 0px 10px;
+
+}
+
+.name {
+	padding-left: 5%;
+}
+
+.name h1 {
+	padding: 0;
+	margin: 0;
+	font-size: 83px;
+	font-family: 'Montserrat', 700;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+.name h2 {
+	padding-top: 200px;
+	padding-bottom: 50px;
+	margin: 0;
+}
+
+.name img {
+	width: 110px;
+	float: right;
+	margin-right: 70px;
+}
+
+
+.whitebar {
+	border: 0px;
+	color: white;
+	background-color: white;
+	height: 5px;
+	max-width: 90%;
+}
+
+.About {
+	padding-top: 50px;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.About h2 {
+	text-align: center;
+}
+
+.About img {
+	border: 3px solid black;
+	border-radius: 200px;
+	width: 240px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	padding-top: 50px;
+	text-align: center;
+}
+
+ul {
+	background:	rgb(195, 198, 204);
+	padding: 10px;
+}
+
+li {
+	color: white;
+	font-weight: bold;
+	display: inline;
+	padding: 0px 20px;
+	margin:	5px;
+}
+
+a {
+	color: white;
+}
+
